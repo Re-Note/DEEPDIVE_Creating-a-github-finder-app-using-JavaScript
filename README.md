@@ -10,6 +10,7 @@ DEEPDIVE_Creating a github finder app using JavaScript
 위에 기능 외에 잔디밭 기능, Spinner 기능 등 원하는 기능을 추가해봅니다.
 
 ### [구현 결과 이미지]
+![사진](https://github.com/user-attachments/assets/6c60695e-ca40-44c7-9468-6fbb4e93246e)
 
 ### [구현 결과 사이트 주소]
 
