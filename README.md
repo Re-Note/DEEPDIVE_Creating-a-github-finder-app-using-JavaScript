@@ -1,5 +1,4 @@
-# DEEPDIVE_Creating-a-github-finder-app-using-JavaScript
-DEEPDIVE_Creating a github finder app using JavaScript
+### [DEEPDIVE] 실습 과제 03.자바스크립트를 이용해서 github finder 앱 만들기
 
 ### [기본 구현 요구 사항]
 
